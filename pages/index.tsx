@@ -38,7 +38,7 @@ export default function Home() {
                 <Grid.Col span={6}>
                     <Card shadow="sm" p="lg">
                         <Title order={3}>Rejoindre notre réseau</Title>
-                        <Text>Devenez famille d'accueil et aidez-nous à accompagner les familles dans le besoin.</Text>
+                        <Text>Devenez famille d&apos;accueil et aidez-nous à accompagner les familles dans le besoin.</Text>
                         <Link href="/candidatures">
                             <Button mt="lg">Déposer une candidature</Button>
                         </Link>
@@ -65,7 +65,7 @@ export default function Home() {
                 <Grid.Col span={6} mt="lg">
                     <Card shadow="sm" p="lg">
                         <Title order={3}>Contact</Title>
-                        <Text>Besoin de plus d'informations ? Contactez notre équipe pour en savoir plus.</Text>
+                        <Text>Besoin de plus d&apos;informations ? Contactez notre équipe pour en savoir plus.</Text>
                         <Link href="/contact">
                             <Button mt="lg">Nous contacter</Button>
                         </Link>
